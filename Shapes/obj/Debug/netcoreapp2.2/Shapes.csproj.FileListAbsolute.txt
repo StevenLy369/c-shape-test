@@ -1,0 +1,9 @@
+C:\Users\Steven\Desktop\epi\c#\Shapes.Solutions\Shapes\bin\Debug\netcoreapp2.2\Shapes.deps.json
+C:\Users\Steven\Desktop\epi\c#\Shapes.Solutions\Shapes\bin\Debug\netcoreapp2.2\Shapes.dll
+C:\Users\Steven\Desktop\epi\c#\Shapes.Solutions\Shapes\bin\Debug\netcoreapp2.2\Shapes.pdb
+C:\Users\Steven\Desktop\epi\c#\Shapes.Solutions\Shapes\obj\Debug\netcoreapp2.2\Shapes.csprojAssemblyReference.cache
+C:\Users\Steven\Desktop\epi\c#\Shapes.Solutions\Shapes\obj\Debug\netcoreapp2.2\Shapes.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Desktop\epi\c#\Shapes.Solutions\Shapes\obj\Debug\netcoreapp2.2\Shapes.AssemblyInfoInputs.cache
+C:\Users\Steven\Desktop\epi\c#\Shapes.Solutions\Shapes\obj\Debug\netcoreapp2.2\Shapes.AssemblyInfo.cs
+C:\Users\Steven\Desktop\epi\c#\Shapes.Solutions\Shapes\obj\Debug\netcoreapp2.2\Shapes.dll
+C:\Users\Steven\Desktop\epi\c#\Shapes.Solutions\Shapes\obj\Debug\netcoreapp2.2\Shapes.pdb
